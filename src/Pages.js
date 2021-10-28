@@ -1,5 +1,5 @@
 import React from 'react'
-import { usePagination } from './hook/Pagination';
+import { usePagination } from './hook/usePagination';
 import { Pagination } from '@material-ui/lab'
 
 function Pages({ data }) {
